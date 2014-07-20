@@ -22,8 +22,7 @@ fac.(fac).(10)
          n * f.(f).(n-1)
        end
      }
-  })
-fac.(10)
+  })[10]
 
 
 # ok...had to look that trick up. kinda understand.
